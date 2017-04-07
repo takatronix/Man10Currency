@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Man10Currency:jar">
+    <output-path>$PROJECT_DIR$/../spigot/plugins/</output-path>
+    <root id="archive" name="Man10Currency.jar">
+      <element id="module-output" name="Man10Currency" />
+    </root>
+  </artifact>
+</component>
